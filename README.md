@@ -42,6 +42,7 @@ Block #1 = 7,640,000 Coin Pre-mine
 Block #2 - Block #175200 = 250 Coins per block (Estimated PoW Reward length = 1 Year)
 
 PoS/Masternode Reward Layout
+
 Proof-of-Stake= 30%/Masternode= 70%
 
 Block #2 - Block #175200 = 150 Coins per block (1st Year Reward)
